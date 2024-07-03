@@ -1,0 +1,1 @@
+Sparse checkout in git subtree test
